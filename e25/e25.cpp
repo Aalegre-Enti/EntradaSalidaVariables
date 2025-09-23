@@ -27,7 +27,7 @@ int main()
     int m1 = euros / 1; 
     euros %= 1;
 
-    std::cout << "\nDesglose (todas las denominaciones):\n";
+    std::cout << "You will need these notes:\n";
     std::cout << b500 << " x 500EUR\n";
     std::cout << b200 << " x 200EUR\n";
     std::cout << b100 << " x 100EUR\n";
